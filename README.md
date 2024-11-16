@@ -1,3 +1,3 @@
 # myself
-This is my first repository
+This is My First Git Repository.
 Author - Rakesh Kumar
